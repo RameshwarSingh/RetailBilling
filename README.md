@@ -11,5 +11,5 @@ as a discount).
 5. The percentage based discounts do not apply on groceries.
 6. A user can get only one of the percentage based discounts on a bill.
 
-How to run:
-Run various test cases for different scenrios given in the BillingServiceTest.java file.
+## How to run:
+Run various test cases for different scenrios given in the "test/com/retail/service/BillingServiceTest.java" file.
